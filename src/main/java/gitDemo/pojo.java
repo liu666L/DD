@@ -2,6 +2,6 @@ package gitDemo;
 
 public class pojo {
  public static void main(String[] args) {
-	System.out.println("oooooooooooooo");
+	System.out.println("yyyyy");
 }
 }
